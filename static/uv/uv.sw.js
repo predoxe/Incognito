@@ -46,13 +46,11 @@ class UVServiceWorker extends EventEmitter {
         this.config = config;
         this.browser = Ultraviolet.Bowser.getParser(self.navigator.userAgent).getBrowserName();
 
-        if (this.browser === 'Firefox') {
-            this.headers.forward.push('user-agent');
-            this.headers.forward.push('content-type');
-        };
+        this.headers.forward.push('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36');
+        this.headers.forward.push('content-type');
     };
     async fetch({ request }) {
-        if (!request.url.startsWith(location.origin + (this.config.prefix || '/service/'))) {
+        if (!request.url.startsWith(location.origin + (this.config.prefix || '/main/'))) {
             return fetch(request);
         };
         try {
