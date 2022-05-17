@@ -10,4 +10,4 @@
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/Pxzlzz/Incognito)
 
 # Testing
-<a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/titaniumnetwork-dev/Vanadium"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/heroku.svg"></a>
+<a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/Pxzlzz/Vanadium"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/heroku.svg"></a>
