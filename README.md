@@ -8,4 +8,6 @@
 ## Quick Deployments
 <a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/Pxzlzz/Incognito"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/heroku.svg"></a>
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/Pxzlzz/Incognito)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/110ab4c4-65ea-4548-96fc-25725e0f4f83/deploy-status)](https://app.netlify.com/sites/fanciful-tartufo-4eb9f7/deploys)
+
+# Testing
+<a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/titaniumnetwork-dev/Vanadium"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/heroku.svg"></a>
