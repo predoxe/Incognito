@@ -1,4 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Pxzlzz/Ultraviolet-Unblocker/main/github/incognito.png?_sm_au_=iVVTnPNjZMZfWVMPQ404vK77VjJt4" height="200">
+
+<p align="center">CREDITS: https://github.com/titaniumnetwork-dev/Ultraviolet>
 </p>
 
 <h1 align="center">Incognito</h1>
